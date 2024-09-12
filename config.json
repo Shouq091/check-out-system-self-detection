@@ -1,0 +1,12 @@
+{
+    "predictions": [
+        {
+            "x": 320,
+            "y": 240,
+            "width": 50,
+            "height": 50,
+            "confidence": 0.9,
+            "class": "person"
+        }
+    ]
+}
